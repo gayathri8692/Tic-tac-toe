@@ -34,14 +34,11 @@ table, th, td {
     width: 310px;
     margin-left: 40px;
     margin-top: 50px;
-    
-   
 }
 
 
 
 @media only screen and (min-width: 900px) {
-
   
 h1 {
   font-size: 45px;
@@ -49,7 +46,6 @@ h1 {
   color: midnightblue;
   text-align: center;
   font-weight: bolder;
- 
 }
 
 body {
@@ -77,6 +73,4 @@ table, th, td {
     height: 120px;
     width: 500px;
     margin-left: 380px;
-    
-   
 }
