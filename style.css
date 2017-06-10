@@ -1,0 +1,82 @@
+h1 {
+  font-size: 35px;
+  font-family: 'Press Start 2P', cursive;
+  color: #130606;
+  text-align: center;
+  font-weight: bolder;
+  margin-top: 20px;
+ 
+}
+
+body {
+  background: url('./polka.jpg');
+}
+
+.playerOne {
+  font-size: 30px;
+  text-align: center;
+  color: black;
+  margin: 0 auto;
+}
+
+
+.playerTwo {
+  font-size: 30px;
+  text-align: center;
+  color: black;
+  margin: 0 auto;
+}
+
+
+table, th, td {
+    border: 8px solid black;
+    height: 80px;
+    width: 310px;
+    margin-left: 40px;
+    margin-top: 50px;
+    
+   
+}
+
+
+
+@media only screen and (min-width: 900px) {
+
+  
+h1 {
+  font-size: 45px;
+  font-family: 'Rubik Mono One', sans-serif;
+  color: midnightblue;
+  text-align: center;
+  font-weight: bolder;
+ 
+}
+
+body {
+  background: url('./texture.jpg');
+}
+
+.playerOne {
+  font-size: 80px;
+  text-align: center;
+  color: black;
+  margin: 0 auto;
+}
+
+
+.playerTwo {
+  font-size: 80px;
+  text-align: center;
+  color: black;
+  margin: 0 auto;
+}
+
+
+table, th, td {
+    border: 10px solid black;
+    height: 120px;
+    width: 500px;
+    margin-left: 380px;
+    
+   
+}
